@@ -10,7 +10,7 @@ To run this program on your local machine, follow these steps:
 
 ## 1. Clone the Repository:
 ```bash
-git clone https://github.com/your-username/simple-addition-c.git
+git clone https://github.com/sabelosiba/simple-addition-c.git
 ```
 
 ## 2. Navigate to the Directory:
