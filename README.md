@@ -30,7 +30,7 @@ gcc main.c -o addition
     ./addition
 ```
 
-##Usage
+## Usage
 
     Enter an integer value for a when prompted.
     Enter an integer value for b when prompted.
